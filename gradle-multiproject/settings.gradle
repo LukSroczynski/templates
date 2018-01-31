@@ -1,4 +1,4 @@
-rootProject.name = 'gradle-multiproject-template'
+rootProject.name = 'gradle-multiproject'
 
 include 'DesignPattern-Factory'
 include 'DesignPattern-Singleton'
